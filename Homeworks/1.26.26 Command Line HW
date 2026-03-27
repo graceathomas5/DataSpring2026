@@ -1,0 +1,30 @@
+Last login: Wed Jan 28 08:26:04 on ttys000
+gracet@Mac ~ % cd dataProjects
+gracet@Mac dataProjects % mkdir pythonSpring2026
+gracet@Mac dataProjects % cd pythonSpring2026
+gracet@Mac pythonSpring2026 % mkdir rawData cleanData
+gracet@Mac pythonSpring2026 % cd rawData
+gracet@Mac rawData % touch downloadedData.csv
+gracet@Mac rawData % cd ..
+gracet@Mac pythonSpring2026 % cd cleanData
+gracet@Mac cleanData % touch processedData.csv
+gracet@Mac cleanData % cd ..
+gracet@Mac pythonSpring2026 % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
